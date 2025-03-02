@@ -4,7 +4,7 @@ library(factoextra)
 
 #importer le dataset
 library(readr)
-dataset <- read.csv("C:/Users/Ilhem/Desktop/TP SID/TP ANAD/TP AFCM/dataset/diabetes_data_upload.csv", head=TRUE)
+dataset <- read.csv("/dataset/diabetes_data_upload.csv", head=TRUE)
 
 #__________________________________________________________________________
 
